@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cookieApp2022'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFA9638719FB4AF189194FD75D14E0A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBF11877DF104EADB26DE58B2C90C7A4 }}
           package: .
